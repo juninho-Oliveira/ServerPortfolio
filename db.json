@@ -1,0 +1,31 @@
+{
+  "Projetos": [
+    {
+      "id": "1",
+      "escola": "rocketseat",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Todo.jpg",
+      "titulo": "Todo",
+      "descricao": "Primeiro desafio da trilha de ReactJS do Ignite.",
+      "tecnologias": "ReactJS",
+      "url": "https://desafio-01-praticando-os-conceitos-do-react-js-red.vercel.app/"
+    },
+    {
+      "id": "2",
+      "escola": "rocketseat",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Ignite%20Feed.jpg",
+      "titulo": "Ignite Feed",
+      "descricao": "Desenvolvendo interfaces modernas na web utilizando uma biblioteca modular e escalável.",
+      "tecnologias": "ReactJS e TypeScript.",
+      "url": "https://github.com/juninho-Oliveira/ReactJS"
+    },
+    {
+      "id": "3",
+      "escola": "rocketseat",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Ignite-time.jpg",
+      "titulo": "Ignite-timer",
+      "descricao": "Projeto realizado durante as aulas da trilha de ReactJS do Ignite",
+      "tecnologias": "ReactJS, TypeScript e styled-components.",
+      "url": "https://github.com/juninho-Oliveira/Criando-SPAs-com-ReactJS"
+    }
+  ]
+}
