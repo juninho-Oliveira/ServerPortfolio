@@ -6,7 +6,7 @@
       "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Todo.jpg",
       "titulo": "Todo",
       "descricao": "Primeiro desafio da trilha de ReactJS do Ignite.",
-      "tecnologias": "ReactJS",
+      "tecnologias": "ReactJS, CSS",
       "url": "https://desafio-01-praticando-os-conceitos-do-react-js-red.vercel.app/"
     },
     {
@@ -15,7 +15,7 @@
       "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Ignite%20Feed.jpg",
       "titulo": "Ignite Feed",
       "descricao": "Desenvolvendo interfaces modernas na web utilizando uma biblioteca modular e escalável.",
-      "tecnologias": "ReactJS e TypeScript.",
+      "tecnologias": "ReactJS, CSS e TypeScript.",
       "url": "https://github.com/juninho-Oliveira/ReactJS"
     },
     {
@@ -36,6 +36,169 @@
       "descricao": "Projeto realizado durante as aula no Senai.",
       "tecnologias": "Usando HTML, CSS, JS, JsonServe e bootstrap.",
       "url": "https://series-project-json-server.vercel.app/index.html"
+    },
+    {
+      "id": "5",
+      "escola": "Ford Senai",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Ford-imc.jpg",
+      "titulo": "calculadora IMC",
+      "descricao": "Projeto realizado durante as aula no Senai.",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://calculadora-imc-sage-omega.vercel.app/"
+    },
+    {
+      "id": "6",
+      "escola": "Ford Senai",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/projetos/FordSenai/Ford-senai-shoes.jpg",
+      "titulo": "Projeto Senai Shoes",
+      "descricao": "Projeto realizado durante as aula no Senai.",
+      "tecnologias": "HTML e CSS",
+      "url": "https://portfolio-2023-two-green.vercel.app/projetos/FordSenai/senaishoes/index.html"
+    },
+    {
+      "id": "7",
+      "escola": "Ford Senai",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/clinica.jpg",
+      "titulo": "Landing Page",
+      "descricao": "Projeto realizado durante as aula no Senai.",
+      "tecnologias": "HTML e CSS",
+      "url": "https://landing-page-ford-enter.vercel.app/"
+    },
+    {
+      "id": "8",
+      "escola": "Ford Senai",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/projetos/FordSenai/ford-Atividade%20-%20Nivelamento.jpg",
+      "titulo": "Atividade Nivelamento",
+      "descricao": "Projeto realizado durante as aula no Senai.",
+      "tecnologias": "HTML e CSS",
+      "url": "https://portfolio-2023-two-green.vercel.app/projetos/FordSenai/blog/index.html"
+    },
+    {
+      "id": "9",
+      "escola": "Ford Senai",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Portf%C3%B3lio.jpg",
+      "titulo": "Projeto-Portfolio-Ford",
+      "descricao": "Projeto realizado durante as aula no Senai.",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://projeto-portfolio-zeta-two.vercel.app/"
+    },
+    {
+      "id": "10",
+      "escola": "Ford Senai",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Formul%C3%A1rio-Calculadora.jpg",
+      "titulo": "Formulário Calculadora",
+      "descricao": "Projeto realizado durante as aula no Senai.",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://formulario-calculadora-one.vercel.app/"
+    },
+    {
+      "id": "11",
+      "escola": "Ford Senai",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Hackathon.jpg",
+      "titulo": "DinamicaEmGrupo-Hackathon",
+      "descricao": "Projeto realizado durante as aula no Senai, Dinamica Em Grupo Hackathon.",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://dinamica-em-grupo-hackathon-ford-enter.vercel.app/"
+    },
+    {
+      "id": "12",
+      "escola": "Youtube/Kenzie",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/projetos/youtube-kenzie/Kenzie.jpg",
+      "titulo": "Kenzie Badobook",
+      "descricao": "Projeto realizado durante aula usando HTML, CSS e javaScript rede social",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://portfolio-2023-two-green.vercel.app/projetos/youtube-kenzie/1Projetinho-/index.html"
+    },
+    {
+      "id": "13",
+      "escola": "Youtube/Kenzie",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Attri%20-%20Desafio%20de%20Est%C3%A1gio%20Front-End.jpg",
+      "titulo": "Attri - Desafio",
+      "descricao": "Desafio Front-end da empresa Attri para estagio",
+      "tecnologias": " HTML, CSS, javaScript e Bootstrap",
+      "url": "https://teste-pr-tico-estagi-rio-desenvolvimento-web.vercel.app/"
+    },
+    {
+      "id": "14",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/ada-tech-marvel.jpg",
+      "titulo": "Marvel Heroes",
+      "descricao": "Projeto realizado durante as aula na AdaTech, Vem | ser | tech | Ifood ",
+      "tecnologias": "React JS, Html, css e bootstrap",
+      "url": "https://marvel-heroes-inky.vercel.app/"
+    },
+    {
+      "id": "15",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/churras.jpg",
+      "titulo": "Churrascômetro",
+      "descricao": "Projeto realizado durante as aula na AdaTech, Vem | ser | tech | Ifood",
+      "tecnologias": "HTML, CSS, JS e json-server",
+      "url": "https://calculadora-churrasco.vercel.app/"
+    },
+    {
+      "id": "16",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/Atividade-Fixacao-Ada-tech.jpg",
+      "titulo": "Fixacao-Ada-tech",
+      "descricao": "Projeto realizado durante as aula na AdaTech, Vem | ser | tech | Ifood página de apresentação",
+      "tecnologias": "HTML e CSS",
+      "url": "https://atividade-fixacao-ada-tech.vercel.app/"
+    },
+    {
+      "id": "17",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/calculadoraIfood.jpg",
+      "titulo": "Calculadora",
+      "descricao": "Projeto final do módulo  POO da AdaTech, Vem | ser | tech | Ifood ",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://calculadora-poo-ashen.vercel.app/"
+    },
+    {
+      "id": "18",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/pizzaria.jpg",
+      "titulo": "página de Pizzaria",
+      "descricao": "Projeto realizado durante as aula na AdaTech, Vem | ser | tech | Ifood",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://ada-tech-ifood.vercel.app/"
+    },
+    {
+      "id": "19",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/catalogo.jpg",
+      "titulo": "Catálogo Digital",
+      "descricao": "Projeto realizado durante as aula na AdaTech, Vem | ser | tech | Ifood",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://ada-tech-ifood-com-estilo.vercel.app/"
+    },
+    {
+      "id": "20",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/ProjetoFinal-Ada-tech-Programa%C3%A7%C3%A3o.jpg",
+      "titulo": "Projeto To-Do-List",
+      "descricao": "Projeto do módulo final de logica de programação da AdaTech, Vem | ser | tech | Ifood",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://juninho-oliveira-to-do-list.vercel.app/"
+    },
+    {
+      "id": "21",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/consulta-cep.jpg",
+      "titulo": "Consulta de Cep",
+      "descricao": "Projeto feito durante o módulo POO da AdaTech, Vem | ser | tech | Ifood, consumo de API ViaCep",
+      "tecnologias": "HTML, tailwind e JS",
+      "url": "https://consulta-de-cep-woad.vercel.app/"
+    },
+    {
+      "id": "22",
+      "escola": "Ada Tech",
+      "imgSrc": "https://portfolio-2023-two-green.vercel.app/imagens/pokeAPI.jpg",
+      "titulo": "PokeAPI Web Interface",
+      "descricao": "Projeto realizado durante as aula na AdaTech, Vem | ser | tech | Ifood consumindo API do PokeAPI",
+      "tecnologias": "HTML, tailwind e JS",
+      "url": "https://pokeapi-ada-tech-dinamica.vercel.app/"
     }
+    
   ]
 }
