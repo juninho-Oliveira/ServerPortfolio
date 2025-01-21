@@ -198,6 +198,15 @@
       "descricao": "Projeto realizado durante as aula na AdaTech, Vem | ser | tech | Ifood consumindo API do PokeAPI",
       "tecnologias": "HTML, tailwind e JS",
       "url": "https://pokeapi-ada-tech-dinamica.vercel.app/"
+    },
+    {
+      "id": "23",
+      "escola": "Portfólio",
+      "imgSrc": "https://www.dropbox.com/scl/fi/uwwbxk36p6fikukia3rm4/portf-lio.png?rlkey=if12ktfip2t6v8xo6hoeeukvd&st=3j9k84em&dl=0",
+      "titulo": "Primeiro Portfólio",
+      "descricao": "Primeiro Portfólio, projeito feito em 2023",
+      "tecnologias": "HTML, CSS e JS",
+      "url": "https://portfolio-2023-two-green.vercel.app/"
     }
     
   ]
