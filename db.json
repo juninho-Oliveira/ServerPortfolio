@@ -207,6 +207,15 @@
       "descricao": "Primeiro Portfólio, projeito feito em 2023",
       "tecnologias": "HTML, CSS e JS",
       "url": "https://portfolio-2023-two-green.vercel.app/"
+    },
+    {
+      "id": "24",
+      "escola": "Portfólio",
+      "imgSrc": "https://raw.githubusercontent.com/juninho-Oliveira/teste-frontend/refs/heads/main/tela.png",
+      "titulo": "Teste Econverse: Vaga Desenvolvedor Front-End",
+      "descricao": "projeto de teste para vaga de Desenvolvedor Front-End Jr da Econverse.",
+      "tecnologias": "com página em React, TypeScript, consumo de API em JSON, modal interativo e estilização em SCSS.",
+      "url": "https://portfolio-2023-two-green.vercel.app/"
     }
     
   ]
